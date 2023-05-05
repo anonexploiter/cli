@@ -11,7 +11,7 @@ export const CmdList = styled.div`
 
 export const Cmd = styled.span`
   color: ${({ theme }) => theme.colors?.primary};
-  text-shadow: 0 0 5px ${({ theme }) => theme.colors?.primary};
+  text-shadow: 0 0 7px ${({ theme }) => theme.colors?.primary};
 `;
 
 export const CmdDesc = styled.span`
