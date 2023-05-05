@@ -50,6 +50,7 @@ export const Seperator = styled.div`
 
 export const Cmd = styled.span`
   color: ${({ theme }) => theme.colors?.primary};
+  text-shadow: 0 0 7px ${({ theme }) => theme.colors?.primary};
 `;
 
 export const Link = styled.a`
