@@ -1,4 +1,4 @@
-# cli
+# Command Line Portfolio
 ---
 # Credits:
 ### An Amazing terminal portfolio was inspires by 
